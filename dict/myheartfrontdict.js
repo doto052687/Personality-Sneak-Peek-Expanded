@@ -1,4 +1,4 @@
-const myheartfrontJson = {
+export const myheartfrontJson = {
     "[None]" : {
         "Black": "",
         "Blue": "",

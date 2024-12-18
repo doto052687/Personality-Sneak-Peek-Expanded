@@ -1,6 +1,6 @@
-const speciesJson = {
+export const speciesJson = {
   "dummydragon": {
-    "speciesDisplay": "[Dummy Dragon]",
+    "speciesDisplay": "dummydragon",
     "stage": {
       "adult": {
         "forms": {

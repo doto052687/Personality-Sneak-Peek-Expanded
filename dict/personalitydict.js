@@ -1,5 +1,5 @@
-const personalityJson = {
-	"[None]" : {
+export const personalityJson = {
+	"None" : {
 		"back" : "",
 		"front" : ""
 	},

@@ -1,4 +1,4 @@
-const cavebgJson = {
+export const cavebgJson = {
     "[None]": {
         "res": "none"
     },

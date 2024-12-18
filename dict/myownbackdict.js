@@ -1,4 +1,4 @@
-const myownbackJson = {
+export const myownbackJson = {
     "[None]" : {
         "Black": "",
         "Blue": "",

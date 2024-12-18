@@ -1,4 +1,4 @@
-const myownfrontJson = {
+export const myownfrontJson = {
     "[None]" : {
         "Black": "",
         "Blue": "",

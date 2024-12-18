@@ -1,4 +1,4 @@
-const cavefloorJson = {
+export const cavefloorJson = {
     "[None]": {
         "res": "none"
     },
