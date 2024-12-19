@@ -11,7 +11,7 @@ and now that you have the cool font, i can force you to use it!
 */
 body {
   font-family: 'NotoSans',sans-serif;
-  text-shadow:2px 2px 4px black;
+  /* text-shadow:2px 2px 4px black; */
   letter-spacing: 0.px;
   background-color: rgba(47,34,26,1.0);
   background-image: url("https://vega-spica.github.io/Personality-Sneak-Peek-Expanded/res/img/Background.png");
